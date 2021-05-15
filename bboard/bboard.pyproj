@@ -68,7 +68,6 @@
     <Compile Include="bboard\wsgi.py" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".gitignore" />
     <Content Include="main\static\main\bg.jpg" />
     <Content Include="main\static\main\empty.jpg" />
     <Content Include="main\static\main\style.css" />
