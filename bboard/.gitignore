@@ -348,3 +348,6 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+bboard/static/admin/**.*.js
+requirements.txt
+*.css
